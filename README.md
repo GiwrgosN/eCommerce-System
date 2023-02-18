@@ -1,6 +1,6 @@
 # eCommerce-System
 
-This project is an implementation of a simple eCommerce system. The program allows the users to:
+This project is an implementation of a simple eCommerce system using Python. The program allows the users to:
 
 - Add products.
 - Remove products.
