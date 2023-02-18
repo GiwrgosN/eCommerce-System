@@ -70,7 +70,7 @@ This project is an implementation of a simple eCommerce system. The program allo
 
 &nbsp;
 ### Methods:
-- addProduct: Add new product to the cart.
+- addProduct: Add a new product to the cart.
 - removeProduct: Remove a product from the cart.
 - getContents: Return products of the cart in alphabetical order of product name.
 - changeProductQuantity: Change the quantity of an already chosen product.
